@@ -37,9 +37,14 @@ I am currently developing a specialized LLM ecosystem designed to navigate and r
 
 ---
 
-### 📈 GitHub Stats
+### 📊 Technical Impact & Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=sabaath7766&show_icons=true&theme=radical" alt="Peter's GitHub stats" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=sabaath7766&show_icons=true&theme=radical" alt="Peter's GitHub stats" height="170" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabaath7766&layout=compact&theme=radical" alt="Peter's Top Languages" height="170" />
+  </a>
 </p>
 
 ---
